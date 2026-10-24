@@ -1,0 +1,59 @@
+year_month,emp_id,full_name,dept_name,plant,separation_date,earnings,attendance_days,leave_days
+2026-04,E10399,Fatima Chaudhry,Dyeing,SITE Plant,,85925.0,0,0
+2026-04,E10491,Sajid Javed,Packing,Faisalabad Plant,,77400.0,0,0
+2026-04,E10564,Danish Hashmi,Maintenance,Faisalabad Plant,,64225.0,0,0
+2026-04,E10907,Sohail Baig,Cutting,Faisalabad Plant,,73525.0,0,0
+2026-04,E11064,Sajid Memon,Warehouse,Faisalabad Plant,,81275.0,0,0
+2026-04,E11089,Sajid Javed,Weaving,Korangi Plant,,75075.0,0,0
+2026-05,E10397,Owais Mirza,Spinning,Korangi Plant,2026-05-01,2122.0,0,0
+2026-05,E10399,Fatima Chaudhry,Dyeing,SITE Plant,,85925.0,0,0
+2026-05,E10471,Umair Baloch,Human Resources,Head Office,2026-04-23,132000.0,0,0
+2026-05,E10491,Sajid Javed,Packing,Faisalabad Plant,,77400.0,0,0
+2026-05,E10564,Danish Hashmi,Maintenance,Faisalabad Plant,,64225.0,0,0
+2026-05,E10907,Sohail Baig,Cutting,Faisalabad Plant,,73525.0,0,0
+2026-05,E11064,Sajid Memon,Warehouse,Faisalabad Plant,,81275.0,0,0
+2026-05,E11089,Sajid Javed,Weaving,Korangi Plant,,75075.0,0,0
+2026-06,E10295,Sohail Hussain,Finishing,SITE Plant,2026-05-11,63450.0,0,0
+2026-06,E10332,Amna Awan,Warehouse,Faisalabad Plant,2026-05-14,80500.0,0,0
+2026-06,E10399,Fatima Chaudhry,Dyeing,SITE Plant,,85925.0,0,0
+2026-06,E10471,Umair Baloch,Human Resources,Head Office,2026-04-23,132000.0,0,0
+2026-06,E10491,Sajid Javed,Packing,Faisalabad Plant,,77400.0,0,0
+2026-06,E10564,Danish Hashmi,Maintenance,Faisalabad Plant,,64225.0,0,0
+2026-06,E10907,Sohail Baig,Cutting,Faisalabad Plant,,73525.0,0,0
+2026-06,E10989,Tariq Jatoi,Packing,Faisalabad Plant,2026-05-18,73525.0,0,0
+2026-06,E11064,Sajid Memon,Warehouse,Faisalabad Plant,,81275.0,0,0
+2026-06,E11089,Sajid Javed,Weaving,Korangi Plant,,75075.0,0,0
+2026-06,E11222,Naveed Ansari,Dyeing,SITE Plant,2026-05-16,104525.0,0,0
+2026-07,E10295,Sohail Hussain,Finishing,SITE Plant,2026-05-11,63450.0,0,0
+2026-07,E10332,Amna Awan,Warehouse,Faisalabad Plant,2026-05-14,80500.0,0,0
+2026-07,E10399,Fatima Chaudhry,Dyeing,SITE Plant,,94450.0,0,0
+2026-07,E10471,Umair Baloch,Human Resources,Head Office,2026-04-23,132000.0,0,0
+2026-07,E10491,Sajid Javed,Packing,Faisalabad Plant,,85150.0,0,0
+2026-07,E10564,Danish Hashmi,Maintenance,Faisalabad Plant,,70425.0,0,0
+2026-07,E10907,Sohail Baig,Cutting,Faisalabad Plant,,80500.0,0,0
+2026-07,E10989,Tariq Jatoi,Packing,Faisalabad Plant,2026-05-18,73525.0,0,0
+2026-07,E11064,Sajid Memon,Warehouse,Faisalabad Plant,,89025.0,0,0
+2026-07,E11089,Sajid Javed,Weaving,Korangi Plant,,82050.0,0,0
+2026-07,E11222,Naveed Ansari,Dyeing,SITE Plant,2026-05-16,104525.0,0,0
+2026-08,E10295,Sohail Hussain,Finishing,SITE Plant,2026-05-11,63450.0,0,0
+2026-08,E10332,Amna Awan,Warehouse,Faisalabad Plant,2026-05-14,80500.0,0,0
+2026-08,E10399,Fatima Chaudhry,Dyeing,SITE Plant,,94450.0,0,0
+2026-08,E10471,Umair Baloch,Human Resources,Head Office,2026-04-23,132000.0,0,0
+2026-08,E10491,Sajid Javed,Packing,Faisalabad Plant,,85150.0,0,0
+2026-08,E10564,Danish Hashmi,Maintenance,Faisalabad Plant,,70425.0,0,0
+2026-08,E10907,Sohail Baig,Cutting,Faisalabad Plant,,80500.0,0,0
+2026-08,E10989,Tariq Jatoi,Packing,Faisalabad Plant,2026-05-18,73525.0,0,0
+2026-08,E11064,Sajid Memon,Warehouse,Faisalabad Plant,,89025.0,0,0
+2026-08,E11089,Sajid Javed,Weaving,Korangi Plant,,82050.0,0,0
+2026-08,E11222,Naveed Ansari,Dyeing,SITE Plant,2026-05-16,104525.0,0,0
+2026-09,E10295,Sohail Hussain,Finishing,SITE Plant,2026-05-11,63450.0,0,0
+2026-09,E10332,Amna Awan,Warehouse,Faisalabad Plant,2026-05-14,80500.0,0,0
+2026-09,E10399,Fatima Chaudhry,Dyeing,SITE Plant,,94450.0,0,0
+2026-09,E10471,Umair Baloch,Human Resources,Head Office,2026-04-23,132000.0,0,0
+2026-09,E10491,Sajid Javed,Packing,Faisalabad Plant,,85150.0,0,0
+2026-09,E10564,Danish Hashmi,Maintenance,Faisalabad Plant,,70425.0,0,0
+2026-09,E10907,Sohail Baig,Cutting,Faisalabad Plant,,80500.0,0,0
+2026-09,E10989,Tariq Jatoi,Packing,Faisalabad Plant,2026-05-18,73525.0,0,0
+2026-09,E11064,Sajid Memon,Warehouse,Faisalabad Plant,,89025.0,0,0
+2026-09,E11089,Sajid Javed,Weaving,Korangi Plant,,82050.0,0,0
+2026-09,E11222,Naveed Ansari,Dyeing,SITE Plant,2026-05-16,104525.0,0,0
