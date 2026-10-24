@@ -9,7 +9,9 @@ STEPS = [
     "transform/stage3_attendance.py",
     "warehouse/build_warehouse.py",
     "analytics/run_queries.py",
+    "quality/run_dq_checks.py",
 ]
+
 
 if "--fresh" in sys.argv:
     db = Path("db/hr.db")
